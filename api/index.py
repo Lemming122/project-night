@@ -198,18 +198,18 @@ def titledata():
             "Elder", "Honey", "Nurse", "Doctor", "Rebel", "Shape", "Ally", "Driver", "Deputy", "Wizard"
         ],
         # Bundle and Sign Configurations
-        "BundleBoardSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleKioskButton": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleKioskSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
-        "BundleLargeSign": "<color=#ff4141>DISCORD.GG/CHRISTMASTAG</color>",
+        "BundleBoardSign": "<color=#ff4141>discord.gg/JVefFNTFz4</color>",
+        "BundleKioskButton": "<color=#ff4141>discord.gg/JVefFNTFz4</color>",
+        "BundleKioskSign": "<color=#ff4141>discord.gg/JVefFNTFz4</color>",
+        "BundleLargeSign": "<color=#ff4141>discord.gg/JVefFNTFz4</color>",
         "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STARS!</color>\n<color=blue>.GG/UNLOADTAG</color>",
         # Text and Messages
         "EmptyFlashbackText": "FLOOR TWO NOW OPEN\n FOR BUSINESS\n\nSTILL SEARCHING FOR\nBOX LABELED 2021",
-        "MOTD": "<color=#FFC0CB>WELCOME TO CHRISTMAS TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: XMAS24</color>\n<color=#cacfd2>BOOST THE DISCORD FOR ALL COSMETICS (EXCLUDING STAFF COS)</color>\n<color=#41ff80>YANDERE MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: FATAL & CASHSMILE</color>\n<color=#ac1a00>CREDITS FOR GAMES OG OS: VIPER</color>\n\n<color=#91A3B0>discord.gg/CHRISTMASTAG</color>",
-        "TOBAlreadyOwnCompTxt": "DISCORD.GG/CHRISTMASTAG",
-        "TOBAlreadyOwnPurchaseBundle": "CHRISTMAS TAG",
-        "TOBDefCompTxt": "DISCORD.GG/CHRISTMASTAG",
-        "TOBDefPurchaseBtnDefTxt": "CHRISTMAS TAG",
+        "MOTD": "<color=#FFC0CB>WELCOME TO NIGHT TAG!</color>\n\n<color=#0099c2>CURRENT UPDATE: NOWRUZ24</color>\n<color=#cacfd2>BOOST THE DISCORD</color>\n<color=#41ff80>HARMONY MADE THIS MOTD</color>\n<color=#6417ff>OUR DEVELOPERS ARE: HARMONY</color>\n<color=#ac1a00>CREDITS FOR GAMES OG OS: HARMONY</color>\n\n<color=#91A3B0>discord.gg/JVefFNTFz4</color>",
+        "TOBAlreadyOwnCompTxt": "discord.gg/JVefFNTFz4",
+        "TOBAlreadyOwnPurchaseBundle": "NIGHT TAG",
+        "TOBDefCompTxt": "discord.gg/JVefFNTFz4",
+        "TOBDefPurchaseBtnDefTxt": "NIGHT TAG",
         # Legal and Versions
         "EnableCustomAuthentication": True,
         "LatestPrivacyPolicyVersion": "2024.09.20",
