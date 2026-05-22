@@ -17,7 +17,7 @@ class GameInfo:
     def __init__(self):
         self.TitleId: str = "8D4A2"  # Playfab Title Id
         self.SecretKey: str = "885GUX47RACR86AU9DMFJHEG1SCC1QFAHG9196MSF3H7TH4XZ1"  # Playfab Secret Key
-        self.ApiKey: str = "OC|9603426539781323|ea8d493e33279c4e90a36857e1354580"  # App Api Key (Oculus/Graph API)
+        self.ApiKey: str = "OC|1131339876729217|1679636d9f347f3a183c567b8c3d6d7f"  # App Api Key (Oculus/Graph API)
 
     def get_auth_headers(self):
         return {"content-type": "application/json", "X-SecretKey": self.SecretKey}
